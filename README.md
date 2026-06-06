@@ -28,27 +28,32 @@ Iris-setosa
 Iris-versicolor
 Iris-virginica
 📋 Tasks Performed
+
 1. Data Loading and Inspection
 Loaded the dataset using Pandas.
 Displayed the dataset using head() and tail().
 Checked dataset dimensions (rows and columns).
 Viewed column names and data types.
+
 2. Data Cleaning
 Checked for missing values.
 Verified duplicate records.
 Ensured data consistency.
-3. Exploratory Data Analysis (EDA)
+
+4. Exploratory Data Analysis (EDA)
 Generated descriptive statistics using describe().
 Analyzed the distribution of numerical features.
 Identified relationships between variables.
-4. Statistical Analysis
+
+5. Statistical Analysis
 Calculated:
 Mean
 Median
 Mode
 Standard Deviation
 Minimum and Maximum Values
-5. Data Visualization
+
+6. Data Visualization
 
 Created various visualizations to better understand the dataset:
 
@@ -74,19 +79,30 @@ Correlation analysis between numerical columns
 
 🔍 Key Findings
 The dataset contains 150 flower samples and 3 different species.
+
 Each species contains 50 observations.
+
 Iris-setosa has the smallest petal dimensions.
+
 Iris-virginica generally has the largest petal dimensions.
+
 Petal Length and Petal Width show a strong positive correlation.
+
 Sepal measurements alone are less effective for species separation than petal measurements.
 
 Learning Outcomes
 Data Loading and Manipulation using Pandas
+
 Data Cleaning Techniques
+
 Exploratory Data Analysis (EDA)
+
 Statistical Analysis
+
 Data Visualization using Matplotlib and Seaborn
+
 Correlation Analysis
+
 Understanding Classification Datasets
 
 Conclusion
